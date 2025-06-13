@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaoutar-12&show_icons=true&count_private=true&hide=contribs&theme=dark" alt="kaoutar-12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaoutar-12&" alt="kaoutar-12" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaoutar-12&theme=dark" alt="GitHub Streak" /></a>
